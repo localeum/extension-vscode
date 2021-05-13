@@ -4,7 +4,7 @@ This is the repository for the [Localization helper](https://marketplace.visuals
 
 There are no source files here because it is closed source.
 
-More documentation: https://marketplace.visualstudio.com/items?itemName=Localeum.localeum
+More documentation: https://marketplace.visualstudio.com/items?itemName=Localeum.localization-helper
 
 You can make feature requests by filing an [issue](https://github.com/localeum/extension-vscode/issues).
 
