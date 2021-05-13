@@ -1,6 +1,6 @@
 # Localization helper - VS Code extension
 
-This is the repository for the [Localization helper](https://marketplace.visualstudio.com/items?itemName=Localeum.localeum), that makes the localization process easier and faster.
+This is the repository for the [Localization helper](https://marketplace.visualstudio.com/items?itemName=Localeum.localization-helper), that makes the localization process easier and faster.
 
 There are no source files here because it is closed source.
 
